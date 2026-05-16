@@ -42,11 +42,4 @@ I specialize in the **MERN stack** and **Next.js ecosystem**, focusing on writin
 
 [![LeetCode user Dereje_Gudisa](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Dereje_Gudisa/)
 
-<p align="left">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Dereje_Gudisa&theme=dark" alt="LeetCode Stats" />
-</p>
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dereje-gudisa&icon=0&color=blue" alt="Visitor Count" />
-</p>
